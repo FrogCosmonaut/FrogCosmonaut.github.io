@@ -30,6 +30,7 @@ github_username:  FrogCosmonaut
 # Build settings
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
+  - jekyll-feed
   - jekyll-remote-theme
 
 # Exclude from processing.
