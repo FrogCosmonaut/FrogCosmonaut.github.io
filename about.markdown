@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About us
 permalink: /about/
 ---
 Welcome to our page! We are a team of passionate individuals dedicated to sharing knowledge and providing valuable information to our readers. Our mission is to inspire and educate, covering a wide range of topics including technology, science, arts, and more.
