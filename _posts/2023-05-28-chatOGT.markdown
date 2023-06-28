@@ -1,8 +1,0 @@
----
-layout: post
-title:  "lol"
-date:   2023-05-28 23:05:46 +0200
-categories: test
----
-
-<iframe width="560" height="315" src="https://chat.openai.com/" title="xd"></iframe>
